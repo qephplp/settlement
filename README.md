@@ -1,1 +1,1 @@
-Settlement Prices
+Daily Settlement Prices
